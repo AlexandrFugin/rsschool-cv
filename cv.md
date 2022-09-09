@@ -13,6 +13,7 @@ Recently, more and more free time from work I devote to the study of the front-e
 ### Skills
 - html
 - css
+- js
 ---
 ### Code
 In progress
